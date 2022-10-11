@@ -17,7 +17,7 @@
   
 ## About This Bot
 
-<b><a href="https://www.github.com/8769ANURAG" title="Dollow">Follow Me For Updates</a></b>
+<b><a href="https://www.github.com/AM-ROBOTS" title="Dollow">Follow Me For Updates</a></b>
 
 ## Up to 4GB files Supported ♥️
 
@@ -50,7 +50,7 @@ Either you could locally host or deploy on [Heroku](https://heroku.com)
 
 Press the below button to Fast deploy on Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/8769ANURAG/File-To-Link)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/AM-ROBOTS/File-To-Link)
 
 
 🚀Features<p>
@@ -74,8 +74,8 @@ Press the below button to Fast deploy on Heroku
 
 
 ```py
-git clone https://github.com/adarsh-goel/Filestreambot-pro
-cd Filestreambot-pro
+git clone https://github.com/AM-ROBOTS/File-To-Link
+cd File-To-Link
 virtualenv -p /usr/bin/python3 venv
 . ./venv/bin/activate
 pip install -r requirements.txt
@@ -160,7 +160,7 @@ Bot also Supported with Channels. Just add bot Channel as Admin. If any new file
 
 - [Vanshaj](https://github.com/Vanshaj8769)
 - [ᎯℕUℛᎯᎶ 𝓖𝓾𝓡𝓾](https://t.me/MOVIES_ZILAA) 
-- <b>⍣ [𝓖𝓾𝓡𝓾](https://GitHub.com/8769ANURAG)</b>
+- <b>⍣ [𝓖𝓾𝓡𝓾](https://GitHub.com/AM-ROBOTS)</b>
 - Everyone In This Journey !
 
 <b>ᴅᴇᴠᴇʟᴏᴘᴇʀ ›› [𝓖𝓾𝓡𝓾](https://telegram.dog/sources_cods) | [ɪɴsᴛᴀɢʀᴀᴍ](https://www.instagram.com/anuragmaheswari_official/) | [ɢɪᴛʜᴜʙ](https://GitHub.com/8769ANURAG)</b>                                                                                                                                                                                    
